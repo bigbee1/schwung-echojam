@@ -1,0 +1,39 @@
+{
+  "title": "Echojam",
+  "children": [
+    {
+      "title": "Overview",
+      "lines": [
+        "Airwindows Echojam:",
+        "echo that is secretly",
+        "a failed reverb.",
+        "",
+        "256 scattered taps,",
+        "17 Select programs.",
+        "No tempo grid —",
+        "tune by ear."
+      ]
+    },
+    {
+      "title": "Controls",
+      "lines": [
+        "Knob 1: Select",
+        " Program 0-16",
+        " stereo scatter",
+        "",
+        "Knob 2: Regen",
+        " Repeats. High",
+        " values wash into",
+        " reverb.",
+        "",
+        "Knob 3: Speed",
+        " Bezier undersample.",
+        " Lower = slower,",
+        " darker echo.",
+        "",
+        "Knob 4: Dry/Wet",
+        " Blend"
+      ]
+    }
+  ]
+}

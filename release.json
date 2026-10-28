@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "download_url": "https://github.com/bigbee1/schwung-echojam/releases/download/v1.0.0/echojam-module.tar.gz",
+  "name": "Echojam",
+  "description": "Airwindows Echojam: echo that is secretly a reverb.",
+  "repo_url": "https://github.com/bigbee1/schwung-echojam"
+}
